@@ -1,2 +1,2 @@
-# eclipse_springproject
+# eclipseSpringProject
 Integração Eclipse com GitHub
