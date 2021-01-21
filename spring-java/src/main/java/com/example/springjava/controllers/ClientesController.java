@@ -7,7 +7,7 @@ import com.example.springjava.models.Cliente;
 /**
  * 
  * @author Luiza Sampaio
- * Comitando alteração diretamente da IDE
+ *
  */
 @RestController
 public class ClientesController {
